@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SendApp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-18 16:01+0700\n"
+"PO-Revision-Date: 2022-07-18 16:07+0700\n"
+"Last-Translator: regaprg prh\n"
+"Language-Team: Indonesian (Indonesia)\n"
+"Language: id-ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://sendapp.live"
+"X-Loco-Source-Locale: id-ID\n"
+"X-Loco-Project-Id: 130130\n"
+"X-Loco-Status: Untranslated\n"
+"X-Loco-Lookup: id\n"
+"X-Loco-Api-Version: 1.0.26 20220711-1"
+
+#: nno-main.php:230 loco:62d52187ebcb537e20498641
+msgid "\">Click here</a> to enter the license."
+msgstr ""
+
+#: nno-ui.php:577 loco:62d52187ebcb537e20498642
+msgid "Activate License"
+msgstr ""
+
+#: nno-ui.php:200 loco:62d52187ebcb537e20498643
+msgid "Activate Webhook"
+msgstr ""
+
+#: nno-main.php:208 loco:62d52187ebcb537e20498644
+msgid "Activation success!"
+msgstr ""
+
+#: nno-san.php:11 loco:62d52187ebcb537e20498645
+msgid "Add country code without (+) sign before number"
+msgstr ""
+
+#: nno-ui.php:185 loco:62d52187ebcb537e20498646
+msgid "Add Rule"
+msgstr ""
+
+#: nno-main.php:200 loco:62d52187ebcb537e20498647
+msgid "All changes has been saved!"
+msgstr ""
+
+#: nno-main.php:106 loco:62d52187ebcb537e20498648
+msgid "Autoresponder"
+msgstr ""
+
+#: nno-main.php:1056 loco:62d52187ebcb537e20498649
+msgid "Caldera Processor to send WhatsApp message after filling out the form"
+msgstr ""
+
+#: nno-main.php:423 nno-main.php:448 loco:62d52187ebcb537e2049864a
+msgid "Cancelled"
+msgstr ""
+
+#: nno-main.php:421 nno-main.php:442 loco:62d52187ebcb537e2049864b
+msgid "Completed"
+msgstr ""
+
+#: nno-ui.php:121 loco:62d52187ebcb537e2049864c
+msgid ""
+"Create WhatsApp autoresponder by click \"Add Rule\" button and set rule "
+"based on your needs. <strong>Please note</strong>: Autoresponder settings "
+"value will be override to the latest domain where you set it up."
+msgstr ""
+
+#: nno-ui.php:589 loco:62d52187ebcb537e2049864d
+msgid "Deactivate License"
+msgstr ""
+
+#: nno-ui.php:415 loco:62d52187ebcb537e2049864e
+msgid "Easy Digital Downloads - New Order Notification:"
+msgstr ""
+
+#: nno-main.php:418 nno-main.php:436 loco:62d52187ebcb537e2049864f
+msgid "Failed"
+msgstr ""
+
+#: nno-ui.php:394 loco:62d52187ebcb537e20498650
+msgid "Follow Up Completed Order After:"
+msgstr ""
+
+#: nno-ui.php:380 loco:62d52187ebcb537e20498651
+msgid "Follow Up Completed Order:"
+msgstr ""
+
+#: nno-ui.php:373 loco:62d52187ebcb537e20498652
+msgid "Follow Up On-Hold Order After:"
+msgstr ""
+
+#: nno-ui.php:359 loco:62d52187ebcb537e20498653
+msgid "Follow Up On-Hold Order:"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+#: loco:62d52187ebcb537e20498654
+msgid "https://sendapp.live"
+msgstr ""
+
+#: nno-san.php:23 loco:62d52187ebcb537e20498655
+msgid "Image Attachment:"
+msgstr ""
+
+#: nno-san.php:26 loco:62d52187ebcb537e20498656
+msgid "Insert image url to attach into message (optional)"
+msgstr ""
+
+#: nno-ui.php:230 nno-ui.php:244 nno-ui.php:258 nno-ui.php:272 nno-ui.php:286
+#: nno-ui.php:300 nno-ui.php:314 nno-ui.php:328 nno-ui.php:341 nno-ui.php:368
+#: nno-ui.php:389 nno-ui.php:424 nno-ui.php:435 loco:62d52187ebcb537e20498657
+msgid "Leave blank to deactivate"
+msgstr ""
+
+#: nno-ui.php:573 nno-ui.php:585 loco:62d52187ebcb537e20498658
+msgid "License Key:"
+msgstr ""
+
+#: nno-main.php:221 loco:62d52187ebcb537e20498659
+msgid "Message has been successfully sent!"
+msgstr ""
+
+#: nno-main.php:118 loco:62d52187ebcb537e2049865a
+msgid "Message Log"
+msgstr ""
+
+#: nno-ui.php:513 nno-san.php:16 loco:62d52187ebcb537e2049865b
+msgid "Message:"
+msgstr ""
+
+#: nno-ui.php:319 loco:62d52187ebcb537e2049865c
+msgid "Order - Cancelled:"
+msgstr ""
+
+#: nno-ui.php:249 loco:62d52187ebcb537e2049865d
+msgid "Order - Completed:"
+msgstr ""
+
+#: nno-ui.php:291 loco:62d52187ebcb537e2049865e
+msgid "Order - Failed:"
+msgstr ""
+
+#: nno-ui.php:221 loco:62d52187ebcb537e2049865f
+msgid "Order - New:"
+msgstr ""
+
+#: nno-ui.php:333 loco:62d52187ebcb537e20498660
+msgid "Order - Notes:"
+msgstr ""
+
+#: nno-ui.php:263 loco:62d52187ebcb537e20498661
+msgid "Order - On Hold:"
+msgstr ""
+
+#: nno-ui.php:277 loco:62d52187ebcb537e20498662
+msgid "Order - Pending:"
+msgstr ""
+
+#: nno-ui.php:235 loco:62d52187ebcb537e20498663
+msgid "Order - Processing:"
+msgstr ""
+
+#: nno-ui.php:305 loco:62d52187ebcb537e20498664
+msgid "Order - Refunded:"
+msgstr ""
+
+#: nno-main.php:417 nno-main.php:433 loco:62d52187ebcb537e20498665
+msgid "Pending"
+msgstr ""
+
+#: nno-main.php:420 nno-main.php:439 loco:62d52187ebcb537e20498666
+msgid "Processing"
+msgstr ""
+
+#: nno-main.php:419 loco:62d52187ebcb537e20498667
+msgid "Receive"
+msgstr ""
+
+#: nno-main.php:422 nno-main.php:445 loco:62d52187ebcb537e20498668
+msgid "Refunded"
+msgstr ""
+
+#: nno-ui.php:208 nno-ui.php:347 nno-ui.php:402 nno-ui.php:441
+#: loco:62d52187ebcb537e20498669
+msgid "Save Changes"
+msgstr ""
+
+#: nno-ui.php:527 loco:62d52187ebcb537e2049866a
+msgid "Send Message"
+msgstr ""
+
+#: nno-san.php:4 loco:62d52187ebcb537e2049866b
+msgid ""
+"Send WhatsApp message to specific number after submit form<br>These are "
+"following tags you can use:"
+msgstr ""
+
+#: nno-ui.php:430 loco:62d52187ebcb537e2049866c
+msgid "SMS Gateway - HTTP API:"
+msgstr ""
+
+#: nno-ui.php:506 nno-san.php:8 loco:62d52187ebcb537e2049866d
+msgid "To:"
+msgstr ""
+
+#: nno-ui.php:191 loco:62d52187ebcb537e2049866e
+msgid "Webhook"
+msgstr ""
+
+#: nno-san.php:2 loco:62d52187ebcb537e2049866f
+msgid "WhatsApp Notification"
+msgstr ""
+
+#. Description of the plugin
+#: loco:62d52187ebcb537e20498670
+msgid "WhatsApp Order Notification for WooCommerce"
+msgstr ""
+
+#. Name of the plugin
+#: nno-main.php:86 nno-main.php:892 loco:62d52187ebcb537e20498671
+msgid "SendApp"
+msgstr ""
+
+#: nno-main.php:105 loco:62d52187ebcb537e20498672
+msgid "SendApp Autoresponder"
+msgstr ""
+
+#: nno-main.php:1055 loco:62d52187ebcb537e20498673
+msgid "SendApp Caldera Forms"
+msgstr ""
+
+#: nno-main.php:117 loco:62d52187ebcb537e20498674
+msgid "SendApp Message Log"
+msgstr ""
+
+#: nno-main.php:85 loco:62d52187ebcb537e20498675
+msgid "SendApp Notification Settings"
+msgstr ""
+
+#. Author of the plugin
+#: loco:62d52187ebcb537e20498676
+msgid "sendapp.live"
+msgstr ""
